@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Robotics",
+    "industry": "Robotics",
+    "location": "Hyderabad",
+    "website": "https://acmerobotics.example",
+    "founded": 2016,
+    "employees": 120
+  },
+  {
+    "id": 2,
+    "name": "CloudWeave",
+    "industry": "SaaS",
+    "location": "Bengaluru",
+    "website": "https://cloudweave.example",
+    "founded": 2020,
+    "employees": 48
+  },
+  {
+    "id": 3,
+    "name": "GreenStack Energy",
+    "industry": "Energy",
+    "location": "Pune",
+    "website": "https://greenstack.example",
+    "founded": 2013,
+    "employees": 260
+  },
+  {
+    "id": 4,
+    "name": "FinPeak",
+    "industry": "FinTech",
+    "location": "Mumbai",
+    "website": "https://finpeak.example",
+    "founded": 2019,
+    "employees": 85
+  }
+]
